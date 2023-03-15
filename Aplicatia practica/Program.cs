@@ -1,4 +1,6 @@
-﻿namespace TriviaGame
+﻿using System;
+
+namespace Quizgame
 {
     class Program
     {
